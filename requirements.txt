@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+numpy
+scipy.stats
+gaussian_kde
+
