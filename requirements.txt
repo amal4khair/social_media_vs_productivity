@@ -2,6 +2,7 @@ streamlit
 pandas
 plotly
 numpy
-scipy.stats
-gaussian_kde
+scipy
+joblib
+scikit-learn
 
